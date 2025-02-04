@@ -1,44 +1,47 @@
 ```
             ⚔️ BATTLE TRACKER ⚔️
 _____________________________________
-|  ____       _   _   _              |
-| |  _ \     | | | | | |             |
-| | |_) | ___| |_| |_| | ___         |
-| |  _ < / _ \ __| __| |/ _ \        |
-| | |_) |  __/ |_| |_| |  __/        |
-| |____/ \___|\__|\__|_|\___|        |
-|            _____                    |
-|           |_   _| __ __ _  ___ ___ |
-|             | || '__/ _` |/ __/ __||
-|             | || | | (_| | (_| (__ |
-|             |_||_|  \__,_|\___\___||
-|_____________________________________|
+    ____        __  __  __
+   / __ )____ _/ /_/ /_/ /__
+  / __  / __ `/ __/ __/ / _ \
+ / /_/ / /_/ / /_/ /_/ /  __/
+/_____/\__,_/\__/\__/_/\___/
+ /_  __/________ ______/ /_____  _____
+  / / / ___/ __ `/ ___/ //_/ _ \/ ___/
+ / / / /  / /_/ / /__/ ,< /  __/ /
+/_/ /_/   \__,_/\___/_/|_|\___/_/
+
+_____________________________________
 ```
 
 🎲 Welcome, brave adventurer, to the Battle Tracker - your trusty companion in the heat of tabletop combat! 🎲
 
-> *"In the midst of chaos, there is also opportunity"* - Sun Tzu, probably while DMing
+> _"In the midst of chaos, there is also opportunity"_ - Sun Tzu, probably while DMing
 
 This mystical tool brings order to your tabletop RPG sessions by managing the intricate dance of combat with ease and style. Whether you're facing a horde of goblins or an ancient dragon, Battle Tracker keeps your focus on the adventure, not the paperwork!
 
 ## ✨ Features
 
 ### 🛡️ Character Management
+
 - Summon and banish characters at will
 - Track vital statistics (health, mana, initiative)
 - Keep your party's status clear and organized
 
 ### ⚔️ Turn Tracker
+
 - Never lose track of whose turn it is
 - Keep the battle flowing smoothly
 - Initiative order displayed with crystal clarity
 
 ### 🎯 Stat Adjustment
+
 - Quick health and mana modifications
 - Real-time updates during combat
 - Intuitive controls for rapid changes
 
 ### 📜 Save/Load System
+
 - Preserve your epic battles
 - Return to your campaign exactly where you left off
 - Never lose your progress to a wayward dragon's breath
@@ -67,6 +70,7 @@ pip install -r requirements.txt
 ## 🎮 Usage
 
 1. Launch the application:
+
 ```bash
 python src/battle_tracker/main.py
 ```
@@ -76,6 +80,7 @@ python src/battle_tracker/main.py
 4. Let the battle commence!
 
 ---
+
 <div align="center">
 
 ```
@@ -84,5 +89,5 @@ python src/battle_tracker/main.py
 |  critical hits be plentiful!         |
 =========================================
 ```
-</div>
 
+</div>
